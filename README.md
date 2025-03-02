@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @j-willy
-- 👀 I’m interested in networking and network security
+- 👀 I’m interested in networking/network security and breaking things
 - 🌱 I’m currently learning Back End Development from boot.dev
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
